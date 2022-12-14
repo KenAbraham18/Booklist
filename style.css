@@ -1,6 +1,6 @@
 body{
     font-family: Tahoma;
-    color: #444;
+    color: #E1C699;;
     letter-spacing: 1px;
 }
 
@@ -38,7 +38,7 @@ h1, h2{
     margin: 20px auto;
     display: block;
     padding: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #E1C699;
     border-radius: 4px;
     font-size: 16px;
     color: #444;
@@ -65,7 +65,7 @@ h1, h2{
 
 .delete{
     float: right;
-    background: #9361bf;
+    background: #E1C699;;
     padding: 6px;
     border-radius: 4px;
     cursor: pointer;
@@ -85,7 +85,7 @@ h1, h2{
     display: block;
     margin: 20px 0;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #E1C699;;
     font-size: 16px;
     border-radius: 4px 0 0 4px;
     box-sizing: border-box;
@@ -94,8 +94,8 @@ h1, h2{
 }
 
 #add-book button{
-    border: 1px solid #9361bf;
-    background: #9361bf;
+    border: 1px solid #E1C699;;
+    background: #E1C699;
     padding: 10px 20px;
     font-size: 16px;
     display: inline-block;
@@ -114,6 +114,7 @@ h1, h2{
     display: block;
     clear: both;
 }
+background-color: #E1C699;
 
 /*
 #tabbed-content li{
